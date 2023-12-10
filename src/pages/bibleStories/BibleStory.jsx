@@ -5,6 +5,7 @@ export default function BibleStory() {
   return (
     <div>
       Bible story
+      
     </div>
   )
 }

@@ -7,6 +7,7 @@ import YearStory from './pages/yearStory/YearStory';
 import BibleStory from './pages/bibleStories/BibleStory';
 import AboutJesus from './pages/about-Jesus/AboutJesus';
 
+
 function App() {
   return (
     <div className="App">
@@ -16,8 +17,7 @@ function App() {
             <Route path='/tract' element={<Tract/>}/>
             <Route path='/year-story' element={<YearStory/>}/>
             <Route path='/bible-story' element={<BibleStory/>}/>
-            <Route path='/about-jesus' element={<AboutJesus/>}/>
-      
+                  
           </Routes>
       </Router>
     </div>

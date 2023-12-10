@@ -1,0 +1,173 @@
+body{
+    background: #DAE1ED;   
+    margin-left: 3%;
+}
+
+.tract-body{
+    display: flex;
+    margin: auto;
+}
+
+/* .FirstPHead{
+    color: #000;
+    font-family: Inter;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+} */
+
+.NavBar{
+    width: 1920px;
+    height: 100px;
+    flex-shrink: 0;
+}
+
+.HeroSection{
+    width: 1920px;
+    height: 795px;
+    flex-shrink: 0;
+}
+
+.FirstP{
+    display: flex;
+    width: 600px;
+    height: 120px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #000;
+    text-align: center;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: normal;
+
+    }
+
+.SecondP{
+    color: #000;
+    font-family: Inter;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 700px;
+}
+
+.ThirdP{
+    width: 13%;
+    /* height: 407px; */
+    flex-shrink: 0;
+    color: #000;
+    font-family: Inter;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: flex;
+    margin: 0%;
+    align-items: end;
+}
+
+.first{
+    margin: 0%;
+    display:flex;
+    gap: 50px;
+}
+
+.ThirdPHeader{
+    font-size: medium;
+}
+
+.diamond{
+      background:rgb(240, 229, 206);
+      height: 150px;
+      text-align: center;
+      transform:rotate(45deg);
+      width:150px;
+      border: 1px solid black;
+      display: flex;
+      margin: auto;
+      justify-content: end;
+  }
+
+  .image{
+    width: 700px;
+    height: 1px;
+    display: flex;
+    justify-content: start;
+    margin: 0%;
+  } 
+
+.romans{
+    display: flex;
+    width: 680px;
+    height: 184px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #000;
+    text-align: center;
+    font-family: Inter;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.Roman{
+    color: #000;
+    font-family: Inter;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+
+.john{
+    display: flex;
+    width: 450px;
+    height: 400px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #000;
+    text-align: center;
+    font-family: Inter;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.fourthP{
+    display: flex;
+    margin: 0%;
+    /* gap: 2px; */
+}
+
+.cross{
+    height: 300px;
+    width: 210px;
+    padding: 45px;
+}
+
+.fourth_write{
+    color: #000;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: #000;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+
